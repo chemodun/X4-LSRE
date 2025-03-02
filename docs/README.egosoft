@@ -1,7 +1,7 @@
-[size=140][u]Lost Ship Recovery Enabler[/u][/size]
+[size=140][u]Lost Ships Replacement Enabler[/u][/size]
 
-In X4: Foundations, the [b]Lost Ship Recovery[/b] feature was introduced in version [b]7.50[/b]. This feature allows the fleet to request a replacement ship if the ship was lost during the execution of the order. The replacement ship will be requested automatically, and the fleet will continue to execute the order.
-However, even if you enable the [b]Ship Lost Replacement[/b] feature for a fleet, the replacement ship will not be requested during the execution of the "default" orders. The replacement ship will only be requested after restarting the order.
+In X4: Foundations, the [b]Lost Ships Replacement[/b] feature was introduced in version [b]7.50[/b]. This feature allows the fleet to request a replacement ship if the ship was lost during the execution of the order. The replacement ship will be requested automatically, and the fleet will continue to execute the order.
+However, even if you enable the [b]Lost Ships Replacement[/b] feature for a fleet, the replacement ship will not be requested during the execution of the "default" orders. The replacement ship will only be requested after restarting the order.
 This extension fixes this issue for some of them:
 [list]
 [*] Patrol
@@ -16,11 +16,16 @@ This extension is compatible with the following versions:
 [list]
 [*] X4: Foundations version [b]7.50[/b]
 [/list]
+[size=140][u]Download[/u][/size]
+
+You can download the latest version via Steam client - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3436726135]Lost Ships Replacement Enabler[/url]
+Or you can do it via the [url=https://www.nexusmods.com/x4foundations/mods/1566]Nexus Mods[/url]
+
 [size=130][u]Usage[/u][/size]
 
 Simple install the extension and use the orders as usual.
-One recommendation - better to restart the orders before the enabling the [b]Ship Lost Recovery[/b] feature.
+One recommendation - better to restart the orders before the enabling the [b]Lost Ships Replacement[/b] feature.
 
 [size=130][u]Links[/u][/size]
 
-There is a thread on EgoSoft forum - [url=https://github.com/chemodun/X4-LSRE/raw/main//url=https://forum.egosoft.com/viewtopic.php?t=469893][Mod/AIScript] Lost Ship Recovery Enabler[/url]
+There is a thread on EgoSoft forum - [url=https://github.com/chemodun/X4-LSRE/raw/main//url=https://forum.egosoft.com/viewtopic.php?t=469893][Mod/AIScript] Lost Ships Replacement Enabler[/url]
