@@ -16,7 +16,7 @@ This extension is compatible with the following versions:
 
 - X4: Foundations version `7.50`
 
-# Download
+## Download
 
 You can download the latest version via Steam client - [Lost Ships Replacement Enabler](https://steamcommunity.com/sharedfiles/filedetails/?id=3436726135)
 Or you can do it via the [Nexus Mods](https://www.nexusmods.com/x4foundations/mods/1629)
@@ -28,4 +28,4 @@ One recommendation - better to restart the orders before the enabling the `Lost 
 
 ## Links
 
-There is a thread on EgoSoft forum - [[Mod/AIScript] Lost Ships Replacement Enabler](url=https://forum.egosoft.com/viewtopic.php?t=469893)
+There is a thread on EGOSOFT forum - [[Mod/AIScript] Lost Ships Replacement Enabler](url=https://forum.egosoft.com/viewtopic.php?t=469893)
