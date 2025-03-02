@@ -1,0 +1,26 @@
+[h1]Lost Ship Recovery Enabler[/h1]
+
+In X4: Foundations, the [b]Lost Ship Recovery[/b] feature was introduced in version [b]7.50[/b]. This feature allows the fleet to request a replacement ship if the ship was lost during the execution of the order. The replacement ship will be requested automatically, and the fleet will continue to execute the order.
+However, even if you enable the [b]Ship Lost Replacement[/b] feature for a fleet, the replacement ship will not be requested during the execution of the "default" orders. The replacement ship will only be requested after restarting the order.
+This extension fixes this issue for some of them:
+[list]
+[*] Patrol
+[*] Police
+[*] Protect Position
+[*] Protect Ship
+[*] Protect Station
+[/list]
+[h2][b]Compatibility[/b][/h2]
+
+This extension is compatible with the following versions:
+[list]
+[*] X4: Foundations version [b]7.50[/b]
+[/list]
+[h2][b]Usage[/b][/h2]
+
+Simple install the extension and use the orders as usual.
+One recommendation - better to restart the orders before the enabling the [b]Ship Lost Recovery[/b] feature.
+
+[h2][b]Links[/b][/h2]
+
+There is a thread on EgoSoft forum - [url=https://github.com/chemodun/X4-LSRE/raw/main//url=https://forum.egosoft.com/viewtopic.php?t=469893][Mod/AIScript] Lost Ship Recovery Enabler[/url]
