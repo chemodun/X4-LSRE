@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <content
-  id=""
+  id="ws_3436726135"
   name="Lost Ships Replacement Enabler"
-  description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station."
+  description="In X4: Foundations, the [b]Lost Ships Replacement[/b] feature was introduced in version [b]7.50[/b]. This feature allows the fleet to request a replacement ship if the ship was lost during the execution of the order. The replacement ship will be requested automatically, and the fleet will continue to execute the order.&#13;&#10;However, even if you enable the [b]Lost Ships Replacement[/b] feature for a fleet, the replacement ship will not be requested during the execution of the &quot;default&quot; orders. The replacement ship will only be requested after restarting the order.&#13;&#10;This extension fixes this issue for some of them:&#13;&#10;[list]&#13;&#10;[*] Patrol&#13;&#10;[*] Police&#13;&#10;[*] Protect Position&#13;&#10;[*] Protect Ship&#13;&#10;[*] Protect Station&#13;&#10;[/list]&#13;&#10;[h2][b]Compatibility[/b][/h2]&#13;&#10;&#13;&#10;This extension is compatible with the following versions:&#13;&#10;[list]&#13;&#10;[*] X4: Foundations version [b]7.50[/b]&#13;&#10;[/list]&#13;&#10;[h2][b]Usage[/b][/h2]&#13;&#10;&#13;&#10;Simple install the extension and use the orders as usual.&#13;&#10;One recommendation - better to restart the orders before the enabling the [b]Ship Lost Recovery[/b] feature.&#13;&#10;&#13;&#10;[h2][b]Links[/b][/h2]&#13;&#10;&#13;&#10;There is a thread on EgoSoft forum - [url=https://forum.egosoft.com/viewtopic.php?t=469893][Mod/AIScript] Lost Ships Replacement Enabler[/url]&#13;&#10;"
   author="Chem O`Dun"
   version="100"
   date="2025-03-02"
   save="false"
-  sync="false">
-
-  <text language="7"  description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"/>
-  <text language="33" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"/>
-  <text language="37" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"/>
-  <text language="39" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"/>
-  <text language="44" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'" />
-  <text language="49" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"/>
-  <text language="55" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"/>
-  <text language="81" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"/>
-  <text language="82" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"/>
-  <text language="86" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"/>
-  <text language="88" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"/>
-
-  <dependency version="750" />
+  lastupdate="1740877087">
+  <text language="7" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"></text>
+  <text language="33" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"></text>
+  <text language="37" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"></text>
+  <text language="39" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"></text>
+  <text language="44" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"></text>
+  <text language="49" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"></text>
+  <text language="55" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"></text>
+  <text language="81" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"></text>
+  <text language="82" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"></text>
+  <text language="86" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"></text>
+  <text language="88" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"></text>
+  <dependency version="750"></dependency>
 </content>
