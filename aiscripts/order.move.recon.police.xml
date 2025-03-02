@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<diff>
+  <add sel="/aiscript/interrupts/handler[@ref='AttackHandler']" pos="before">
+    <handler ref="LSRELoadGameHandler" />
+    <handler ref="LSRESubordinateLostHandler" />
+  </add>
+  <add sel="/aiscript/init">
+    <!-- create group of subordinates to request fleet reinstate -->
+    <create_group groupname="$subordinatesGroupLSRE" />
+  </add>
+</diff>

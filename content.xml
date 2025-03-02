@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content
+  id=""
+  name="Lost Ships Replacement Enabler"
+  description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station."
+  author="Chem O`Dun"
+  version="100"
+  date="2025-03-01"
+  save="false"
+  sync="false">
+
+  <text language="7"  description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"/>
+  <text language="33" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"/>
+  <text language="37" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"/>
+  <text language="39" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"/>
+  <text language="44" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'" />
+  <text language="49" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"/>
+  <text language="55" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"/>
+  <text language="81" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"/>
+  <text language="82" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"/>
+  <text language="86" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"/>
+  <text language="88" description="This mod enables the Lost Ships replacement feature for the next 'default' order: Patrol, Police, Protect Position, Protect Ship and Protect Station.'"/>
+
+  <dependency version="750" />
+</content>
