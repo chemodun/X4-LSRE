@@ -28,4 +28,4 @@ One recommendation - better to restart the orders before the enabling the `Lost 
 
 ## Links
 
-There is a thread on EGOSOFT forum - [[Mod/AIScript] Lost Ships Replacement Enabler](url=https://forum.egosoft.com/viewtopic.php?t=469893)
+There is a thread on EGOSOFT forum - [[Mod/AIScript] Lost Ships Replacement Enabler](https://forum.egosoft.com/viewtopic.php?t=469893)
