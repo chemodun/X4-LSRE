@@ -19,7 +19,7 @@ This extension is compatible with the following versions:
 # Download
 
 You can download the latest version via Steam client - [Lost Ships Replacement Enabler](https://steamcommunity.com/sharedfiles/filedetails/?id=3436726135)
-Or you can do it via the [Nexus Mods](https://www.nexusmods.com/x4foundations/mods/1566)
+Or you can do it via the [Nexus Mods](https://www.nexusmods.com/x4foundations/mods/1629)
 
 ## Usage
 
